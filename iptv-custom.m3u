@@ -143,5 +143,5 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Commedia – Rakuten TV" tvg-chno="4004" tvg-logo="https://camo.githubusercontent.com/81b5b72c07ef96fba89dc8ca93a6eeefd296141d4c1c1ebff0d7a93aadcb48da/68747470733a2f2f692e696d6775722e636f6d2f454b4b586449552e6a7067" group-title="RakutenTV",Commedia - Rakuten TV
-https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews" tvg-chno="1001" tvg-logo="https://camo.githubusercontent.com/81b5b72c07ef96fba89dc8ca93a6eeefd296141d4c1c1ebff0d7a93aadcb48da/68747470733a2f2f692e696d6775722e636f6d2f454b4b586449552e6a7067" group-title="International",Euronews
+https://www.youtube.com/euronews/live
